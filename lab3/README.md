@@ -1,2 +1,2 @@
 # INFO-274
-Lab
+Laboratorio 3
