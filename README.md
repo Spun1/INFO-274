@@ -1,2 +1,3 @@
 # INFO-274
-Lab
+
+En este repositorio se encontraran todos los laboratorios desarrollados de simulacion
